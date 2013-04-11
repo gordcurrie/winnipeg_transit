@@ -1,5 +1,5 @@
 var map;
-var home = 'http://localhost:31337/transit';
+var home = 'http://gordcurrie.ca/wpg_transit/';
 
 function default_text(input)
 {
